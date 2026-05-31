@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+/yarn-error.log
+
+# Maven / Java
+/target/
+**/target/
+**/maven-status/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+/.idea/
+/out/
+.gradle/
+
+# Spring Boot
+/boot-info.properties
+
+# Node
+/node_modules/
+/frontend/node_modules/
+/dist/
+/build/
+/.vite/
+
+# Vite / dev
+/.env.local
+/.env.*.local
+
+# Vite cache
+/.vite/
+
+# IDEs
+/.vscode/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+Thumbs.db
+
+# Coverage
+/coverage/
+.nyc_output/
+
+# OS files
+Icon?
