@@ -1,1 +1,2 @@
 {"id":"int-ee21891b","kind":"field_change","created_at":"2026-06-03T20:34:38.633745Z","actor":"mtraina","issue_id":"sdd-ai-todo-list-fyu","extra":{"field":"status","new_value":"closed","old_value":"open","reason":"Closed"}}
+{"id":"int-d6fc7157","kind":"field_change","created_at":"2026-06-03T20:58:56.994516Z","actor":"mtraina","issue_id":"bd-001","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Implemented Todo.dueDate and unit tests"}}
