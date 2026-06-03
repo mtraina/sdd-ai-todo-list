@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "sdd_ai_todo_list",
+  "project_id": "36167cc8-73cc-496e-adff-4fc715c33597"
+}
